@@ -15,7 +15,7 @@ public class Bank {
         Scanner scan = new Scanner(System.in);
         int choice;
 
-        System.out.println("=====Welcome to GBank=====");
+        System.out.println("======Welcome to GBank======");
         System.out.println("1. Create Savings Account");
         System.out.println("2. Create Checking Account");
         System.out.println("3. Deposit");
